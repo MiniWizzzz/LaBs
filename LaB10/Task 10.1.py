@@ -4,7 +4,7 @@ from typing import Optional
 from dataclasses import dataclass, asdict
 
 # прописываем путь к файлу сразу, чтобы не быть совсем дурачком
-JSON_PATH = os.path.join(os.getcwd(), "LaB10", "101.json")
+JSON_PATH = os.path.join(os.getcwd(), "LaB10", "10_1.json")
 
 # прописываем типы данных для каждого вида информации
 @dataclass
