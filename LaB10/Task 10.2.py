@@ -3,7 +3,7 @@ import os
 from typing import Optional
 from dataclasses import dataclass, asdict
 
-JSON_PATH = os.path.join(os.getcwd(), "LaB10", "10_1.json")
+JSON_PATH = os.path.join(os.getcwd(), "LaB10", "101.json")
 
 @dataclass
 class Product:
