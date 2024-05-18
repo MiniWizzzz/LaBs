@@ -5,7 +5,7 @@ def lab_12_1():
     ice1 = IceCreamStand(
         "BrandIce",
         "мороженое",
-        4.78,
+        4.32,
         ["ванильное", "шоколадное", "клубничное"]
     )
     ice1.describe_restaurant()
